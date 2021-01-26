@@ -4,4 +4,4 @@ logging:
   level:
     com:
       example:
-        springboot: DEBUG
+        springboot: ERROR
