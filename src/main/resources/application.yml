@@ -5,3 +5,4 @@ logging:
     com:
       example:
         springboot: DEBUG
+
