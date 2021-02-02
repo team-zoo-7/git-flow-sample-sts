@@ -1,3 +1,3 @@
 # git-flow-sample-sts
 
-test6
+test7
